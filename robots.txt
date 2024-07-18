@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plosibleon.github.io/sitemap
+Sitemap: https://plosibleon.github.io/app/sitemap
+Sitemap: https://plosibleon.github.io/assets/sitemap
+Sitemap: https://plosibleon.github.io/css/sitemap
+Sitemap: https://plosibleon.github.io/includes/sitemap
+Sitemap: https://plosibleon.github.io/item/sitemap
+Sitemap: https://plosibleon.github.io/src/sitemap
